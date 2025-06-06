@@ -1,0 +1,166 @@
+{
+  "Tennis": [
+    {
+      "match": "Felix Gill vs Lorenzo Gagliardo",
+      "ps3838": {
+        "match": "Felix Gill vs Lorenzo Gagliardo",
+        "odds": {
+          "Felix Gill": "1.800",
+          "Lorenzo Gagliardo": "2.000"
+        }
+      },
+      "sbobet": {
+        "match": "Felix Gill vs Lorenzo Gagliardo",
+        "odds": {
+          "Felix Gill": "1.800",
+          "Lorenzo Gagliardo": "2.000"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Albert Pedrico Kravtsov vs Iliyan Radulov",
+      "ps3838": {
+        "match": "Albert Pedrico Kravtsov vs Iliyan Radulov",
+        "odds": {
+          "Albert Pedrico Kravtsov": "3.680",
+          "Iliyan Radulov": "1.297"
+        }
+      },
+      "sbobet": {
+        "match": "Albert Pedrico Kravtsov vs Iliyan Radulov",
+        "odds": {
+          "Albert Pedrico Kravtsov": "3.680",
+          "Iliyan Radulov": "1.297"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Mingge Xu vs Jessika Ponchet",
+      "ps3838": {
+        "match": "Mingge Xu vs Jessika Ponchet",
+        "odds": {
+          "Mingge Xu": "6.490",
+          "Jessika Ponchet": "1.150"
+        }
+      },
+      "sbobet": {
+        "match": "Mingge Xu vs Jessika Ponchet",
+        "odds": {
+          "Mingge Xu": "7.125",
+          "Jessika Ponchet": "1.148"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Robin Montgomery vs Zeynep Sonmez",
+      "ps3838": {
+        "match": "Robin Montgomery vs Zeynep Sonmez",
+        "odds": {
+          "Robin Montgomery": "1.079",
+          "Zeynep Sonmez": "11.400"
+        }
+      },
+      "sbobet": {
+        "match": "Robin Montgomery vs Zeynep Sonmez",
+        "odds": {
+          "Robin Montgomery": "1.079",
+          "Zeynep Sonmez": "13.250"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Marina Bassols vs Alice Rame",
+      "ps3838": {
+        "match": "Marina Bassols vs Alice Rame",
+        "odds": {
+          "Marina Bassols": "1.649",
+          "Alice Rame": "2.230"
+        }
+      },
+      "sbobet": {
+        "match": "Marina Bassols Ribera vs Alice Rame",
+        "odds": {
+          "Marina Bassols Ribera": "1.686",
+          "Alice Rame": "2.306"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Josy Daems vs Elizabeth Mandlik",
+      "ps3838": {
+        "match": "Josy Daems vs Elizabeth Mandlik",
+        "odds": {
+          "Josy Daems": "17.830",
+          "Elizabeth Mandlik": "1.047"
+        }
+      },
+      "sbobet": {
+        "match": "Josy Daems vs Elizabeth Mandlik",
+        "odds": {
+          "Josy Daems": "17.830",
+          "Elizabeth Mandlik": "1.049"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Marie Vogt vs Alexis Blokhina",
+      "ps3838": {
+        "match": "Marie Vogt vs Alexis Blokhina",
+        "odds": {
+          "Marie Vogt": "47.510",
+          "Alexis Blokhina": "1.012"
+        }
+      },
+      "sbobet": {
+        "match": "Marie Vogt vs Alexis Blokhina",
+        "odds": {
+          "Marie Vogt": "53.920",
+          "Alexis Blokhina": "1.012"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Chun Hsin Tseng vs Alejandro Tabilo",
+      "ps3838": {
+        "match": "Chun Hsin Tseng vs Alejandro Tabilo",
+        "odds": {
+          "Chun Hsin Tseng": "1.465",
+          "Alejandro Tabilo": "2.810"
+        }
+      },
+      "sbobet": {
+        "match": "Chun Hsin Tseng vs Alejandro Tabilo",
+        "odds": {
+          "Chun Hsin Tseng": "1.607",
+          "Alejandro Tabilo": "2.810"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    },
+    {
+      "match": "Aliona Falei vs Matilde Jorge",
+      "ps3838": {
+        "match": "Aliona Falei vs Matilde Jorge",
+        "odds": {
+          "Aliona Falei": "1.952",
+          "Matilde Jorge": "1.840"
+        }
+      },
+      "sbobet": {
+        "match": "Aliona Falei vs Matilde Jorge",
+        "odds": {
+          "Aliona Falei": "2.080",
+          "Matilde Jorge": "1.735"
+        },
+        "timestamp": "2025-06-06T11:27:15.162Z"
+      }
+    }
+  ]
+}

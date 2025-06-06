@@ -1,0 +1,74 @@
+{
+  "Tennis": [
+    {
+      "match": "Felix Gill vs Lorenzo Gagliardo",
+      "odds": {
+        "Felix Gill": "1.740",
+        "Lorenzo Gagliardo": "2.080"
+      }
+    },
+    {
+      "match": "Albert Pedrico Kravtsov vs Iliyan Radulov",
+      "odds": {
+        "Albert Pedrico Kravtsov": "4.000",
+        "Iliyan Radulov": "1.265"
+      }
+    },
+    {
+      "match": "Mingge Xu vs Jessika Ponchet",
+      "odds": {
+        "Mingge Xu": "6.580",
+        "Jessika Ponchet": "1.147"
+      }
+    },
+    {
+      "match": "Robin Montgomery vs Zeynep Sonmez",
+      "odds": {
+        "Robin Montgomery": "1.079",
+        "Zeynep Sonmez": "11.400"
+      }
+    },
+    {
+      "match": "Kaitlin Quevedo vs Aneta Laboutkova",
+      "odds": {
+        "Kaitlin Quevedo": "1.564",
+        "Aneta Laboutkova": "2.410"
+      }
+    },
+    {
+      "match": "Marina Bassols vs Alice Rame",
+      "odds": {
+        "Marina Bassols": "1.649",
+        "Alice Rame": "2.230"
+      }
+    },
+    {
+      "match": "Josy Daems vs Elizabeth Mandlik",
+      "odds": {
+        "Josy Daems": "21.650",
+        "Elizabeth Mandlik": "1.038"
+      }
+    },
+    {
+      "match": "Marie Vogt vs Alexis Blokhina",
+      "odds": {
+        "Marie Vogt": "47.510",
+        "Alexis Blokhina": "1.012"
+      }
+    },
+    {
+      "match": "Chun Hsin Tseng vs Alejandro Tabilo",
+      "odds": {
+        "Chun Hsin Tseng": "1.465",
+        "Alejandro Tabilo": "2.810"
+      }
+    },
+    {
+      "match": "Aliona Falei vs Matilde Jorge",
+      "odds": {
+        "Aliona Falei": "2.080",
+        "Matilde Jorge": "1.735"
+      }
+    }
+  ]
+}
